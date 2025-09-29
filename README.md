@@ -31,7 +31,7 @@ mkdir -p aro && cd aro
 git clone https://github.com/ediadvancedrobotics/tutorials/
 ```
 
-- Create an ARO python environmentto avoid conflicts (optional). 
+- Create an ARO python environment to avoid conflicts (optional). 
 ```bash 
 python -m venv aroenv
 source aroenv/bin/activate
